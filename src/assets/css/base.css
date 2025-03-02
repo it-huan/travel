@@ -1,0 +1,20 @@
+/* 导入iconfont */
+@import url('http://at.alicdn.com/t/c/font_3792124_p0cmgbsjbol.css');
+html,body,#app{
+    height: 100%;
+  }
+a{
+    text-decoration: none;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+em{
+    font-style: normal;
+}
+dl,dd{
+    padding:0;
+    margin: 0;
+}
